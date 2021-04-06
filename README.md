@@ -28,10 +28,7 @@
 <p>(Why do these look like cheesy magnets you'd stick on a fridge?)</p>
 
 <div class="tablece">
-<center><table
-border=”0”
-cellpadding=”60”
-cellspacing=”1”>
+<center>
 <tr>
 <td><button>You're Funny-ish</button></td>
 <td><button>You introduced me to McD's Southwest Salad</button></td>
@@ -63,7 +60,7 @@ cellspacing=”1”>
 <form>
 Type 'Yes' below and click 'Submit': <br><br>
 <input type="text"> <br><br>
-<button><a href="https://www.instagram.com/chandrakoy/">Submit</a></button>
+<button><a href="#">Submit</a></button>
 </form>
 </div>
 
