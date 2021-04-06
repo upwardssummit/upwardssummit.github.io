@@ -3,7 +3,7 @@
 
 <html>
   <head> 
-	<center><title>Our 4th Anniversary</title></center>
+	<title>Our 4th Anniversary</title>
 	<link rel="stylesheet" href="projectce.css">
 </head>
 
