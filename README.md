@@ -1,6 +1,4 @@
 # upwardssummit.github.io
-
-<!DOCTYPE html>
 <html lang="eng"> 
 
 <html>
